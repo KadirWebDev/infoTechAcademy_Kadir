@@ -1,2 +1,2 @@
 # infoTechAcademy_Kadir
-# resume tast
+resume tasks
